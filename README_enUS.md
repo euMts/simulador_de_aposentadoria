@@ -1,7 +1,7 @@
 
 # Retirement Simulator<br>
 
-[![traduzir](https://img.shields.io/badge/Traduzir-pt--BR-brightgreen)](README.md) [![traduzir](https://img.shields.io/badge/Translate-en--US-blue)](README_enUs.md)<br>
+[![traduzir](https://img.shields.io/badge/Traduzir-pt--BR-brightgreen)](README.md) [![traduzir](https://img.shields.io/badge/Translate-en--US-blue)](README_enUS.md)<br>
 
 Find out how many years you will retire by investing a fixed amount per month!<br>
 

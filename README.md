@@ -1,7 +1,7 @@
 
 # Simulador de Aposentadoria<br>
 
-[![traduzir](https://img.shields.io/badge/Traduzir-pt--BR-brightgreen)](README.md) [![traduzir](https://img.shields.io/badge/Translate-en--US-blue)](README_enUs.md)<br>
+[![traduzir](https://img.shields.io/badge/Traduzir-pt--BR-brightgreen)](README.md) [![traduzir](https://img.shields.io/badge/Translate-en--US-blue)](README_enUS.md)<br>
 
 Descubra com quantos anos você vai se aposentar investindo um valor fixo por mês!<br>
 
