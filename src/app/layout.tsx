@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Simulador de Aposentadoria",
-  description: "Desenvolvido com next",
+  description: "Calculadora de juros compostos voltada para simulação de aposentadoria por investimentos",
 };
 
 export default function RootLayout({
